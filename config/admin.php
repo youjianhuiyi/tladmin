@@ -314,7 +314,8 @@ return [
     */
     'layout' => [
         // indigo, blue, blue-light, blue-dark, green
-        'color' => 'indigo',
+//        'color' => 'indigo',
+        'color' => 'blue-dark',
 
         'body_class' => '',
 
@@ -322,7 +323,7 @@ return [
 
         'sidebar_dark' => false,
 
-        'dark_mode_switch' => false,
+        'dark_mode_switch' => true,
 
         // bg-primary, bg-info, bg-warning, bg-success, bg-danger, bg-dark
         'navbar_color' => '',
